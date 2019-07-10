@@ -1,2 +1,2 @@
-a1,b1=map(int,input().split())
-print(abs(a1-b1))
+m1,n1=map(int,input().split())
+print(abs(m1-n1))
